@@ -1,0 +1,35 @@
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
+#define endereco 0x3F
+#define colunas 16
+#define linhas 2
+  
+LiquidCrystal_I2C lcd(endereco, colunas, linhas);  
+
+void setup()
+{
+  lcd.init();
+  lcd.backlight();
+  lcd.clear();
+  
+  lcd.print("Olá Rober");
+  delay(1000); // Wait for 1000 millisecond(s)
+  lcd.setCursor(0, 1);
+  lcd.clear();
+  lcd.print("tudo bem");
+  lcd.noBacklight();
+}
+
+void loop()
+{
+  Serial.println("Olá Roberval");
+/*  digitalWrite(12, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(12, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)*/
+}
