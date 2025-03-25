@@ -1,0 +1,11 @@
+Quando utiliza pinMode(button, INPUT), o estado do botão depende de como ele está fisicamente conectado no circuito. 
+
+Aqui estão as duas possibilidades mais comuns:
+
+1. Botão com pull-up interno ativado:
+
+Se usar pinMode(button, INPUT_PULLUP), o botão vai gerar um LOW (0) quando pressionado e HIGH (1) quando não pressionado. Isso é típico quando conecta o botão entre o pino e o GND, usando a resistência interna de pull-up.
+
+2. Botão sem pull-up:
+
+Quando utiliza pinMode(button, INPUT), o comportamento pode variar dependendo da sua fiação. Sem a resistência de pull-up, o valor lido quando o botão está despressionado pode ser flutuante ou imprevisível. Para evitar esse problema, precisa utilizar uma resistência de pull-down externa ou configurar o pino como INPUT_PULLUP.
