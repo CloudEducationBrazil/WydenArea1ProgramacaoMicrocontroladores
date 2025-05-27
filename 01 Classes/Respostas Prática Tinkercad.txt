@@ -1,0 +1,39 @@
+-- display7Segmentos
+https://www.tinkercad.com/things/7ohUHw66hhe-display7segmentos?sharecode=VeMFAil9AxKpHdwMx2Z_xT04aCM_Nkf4vEGOLERlJgo
+
+-- Fotorresistor
+https://www.tinkercad.com/things/dX6aqFMkUge-fotoresistor?sharecode=9rN9ajuGk4vIt-j3ikDbVQHXvZPNjvLeGHAlkBj76IU
+
+-- RGB
+https://www.tinkercad.com/things/ixjgYvJEDhR-rgb?sharecode=Dcp96MNfKvgUREZrXEQdiWM4XRmCRCa0kdbcjaEnjlg
+
+-- sensorUltrasonic
+https://www.tinkercad.com/things/4qVCfuw4iuX-sensorultrasonic?sharecode=0xOk6agqhBGUZ78-cmCh0onBQ3RZEGO8KLgD31Prcpw
+
+-- PWM Potenciômetro
+https://www.tinkercad.com/things/ibv5Ol4R4AX-pwm-potenciometro?sharecode=EhRz721Dr_ZRrsWeQHu9U2PLgvkQTB91x5CmRQpidLA
+
+-- 2 Bouttons e 01 Led
+https://www.tinkercad.com/things/1wTl90MmWM9-2-boutton-e-01-led?sharecode=TOWoycopcVEhaCBluxlMM5ubTgm_y0R7rePiqtMpO2Q
+
+-- Buzzer - Pìezo
+https://www.tinkercad.com/things/lRsUyWuE4QL-buzzer-piezo?sharecode=f0VlgkdGxx3e3KgvagUd1mUUFy5KM0R8ejBujVaXId8
+
+-- 4LEDS
+https://www.tinkercad.com/things/0HEQg9rPBPG-4leds?sharecode=sMwAHza_3nsvgEcOnqYgqjyAfZ6C-p1vc4XYD8WEhK0
+
+-- lampada
+https://www.tinkercad.com/things/l4QExTz1aeg-lampada?sharecode=RZtHKHEfGjIpQxB2RG9c6bZMjllpqx1qTrn8DmvkabU
+
+-- button PULLUP
+https://www.tinkercad.com/things/cGHDHIPdVjF-button-pullup?sharecode=tH9SJBGZm-PzHMasLWuW4Y2KSZtCD878bz7nhprviBw
+
+-- lcdI2C
+https://www.tinkercad.com/things/aMJsNECwtTM-lcdi2c?sharecode=oedeRdEgZJh5XBMaRcPFYtRc0-9rcVg9SW0qPjLEayw
+
+-- 2 push button e 2 leds
+https://www.tinkercad.com/things/2dPh4xLLW0J-2-push-button-e-2-leds?sharecode=sDecXz93eiBgyidCx6TmVs_ylVHZIw_ujF3V8cEsxQE
+
+-- 01 led e 01 button
+https://www.tinkercad.com/things/5YXL7Vpbllg-01-led-e-01-button?sharecode=x8DGkuwd10ExHxN8uPlrJ6b6-g77gTZ80bvPbHkxnT0
+
